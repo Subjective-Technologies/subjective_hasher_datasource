@@ -1,4 +1,5 @@
 {
+  "description": "Pipeline-stage scaffold intended for hashing/fingerprinting artifacts before indexing or deduplication. Current fetch behavior is a placeholder.",
   "domainCategory": "Security & Identity",
   "subjectiveTechnologyElement": "Pipelines",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Hasher",
-      "text": "A Subjective data source for Hasher. This data source is currently a skeleton (fetch returns no items).",
+      "text": "Pipeline-stage scaffold intended for hashing/fingerprinting artifacts before indexing or deduplication. Current fetch behavior is a placeholder.",
       "image": {
         "src": "/subjective_hasher_datasource/icon.svg",
         "alt": "Hasher icon"
